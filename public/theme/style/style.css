@@ -160,6 +160,7 @@ header {
               color: transparent !important; }
   .three-columns #explorer {
     width: 15%;
+    min-width: 220px;
     overflow-y: auto; }
   .three-columns > * {
     background-color: #1c1921; }
